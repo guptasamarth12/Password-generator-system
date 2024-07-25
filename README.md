@@ -1,1 +1,1 @@
-# Password-generator-system
+The Password Generator System is a simple and efficient tool designed to generate secure and random passwords. This system helps users create strong passwords to enhance the security of their accounts and sensitive information. The generator can create passwords of various lengths and complexities based on user preferences.# Password-generator-system
